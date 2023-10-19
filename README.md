@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
 
-    <svg width="350" height="350" style="float: right;">
-        <circle cx="175" cy="175" r="175" fill="none" stroke="black" stroke-width="3" />
-        <clipPath id="rounded-clip">
-            <circle cx="175" cy="175" r="175" />
-        </clipPath>
-        <image x="0" y="0" width="350" height="350" xlink:href="https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/img.jpg" clip-path="url(#rounded-clip)" />
-    </svg>
+![Rounded Image](https://github.com/yourusername/yourrepository/raw/main/rounded-image.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkhuyar&label=Profile%20views&color=0e75b6&style=flat" alt="pkhuyar" /> </p>
 
