@@ -1,4 +1,4 @@
-<img alt="doe" width="1280" height="640" src="img/bin.jpg">
+<img alt="doe" width="1200" height="320" src="img/bin.jpg">
 
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
