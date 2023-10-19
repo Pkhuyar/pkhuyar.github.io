@@ -1,15 +1,16 @@
-/* styles.css */
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f0f0f0;  /* Light grey background */
 }
 
 header, nav, section, footer {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ccc;
+    background-color: #ffffff;  /* White background for content areas */
+    border-radius: 8px;  /* Rounded corners */
 }
 
 nav ul {
@@ -25,8 +26,23 @@ nav li {
 
 nav a {
     text-decoration: none;
+    color: #007BFF;  /* Blue color for links */
 }
 
 h1, h2 {
     color: #333;
+}
+/* Add this to the end of your styles.css file */
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode header,
+.dark-mode nav,
+.dark-mode section,
+.dark-mode footer {
+    background-color: #444;
+    border-color: #555;
 }
