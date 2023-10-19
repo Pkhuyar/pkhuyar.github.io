@@ -1,4 +1,4 @@
-![logo](https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/bin.png)
+![logo](https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/binn.png)
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
 <img align="right" alt="dog_image" width="350" height="350" src="img.jpg">
