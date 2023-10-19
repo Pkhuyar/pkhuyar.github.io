@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #333;
+}
