@@ -1,5 +1,5 @@
-![logo](https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/img/back.png)
-<img  alt="do" src="img/back.png">
+![logo](https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/img/bin.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
