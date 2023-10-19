@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
 
-![Rounded Image](https://github.com/Pkhuyar/pkhuyar.github.io/raw/main/rounded-image.jpg)
+![Rounded Image](https://github.com/Pkhuyar/pkhuyar.github.io/raw/main/img.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkhuyar&label=Profile%20views&color=0e75b6&style=flat" alt="pkhuyar" /> </p>
