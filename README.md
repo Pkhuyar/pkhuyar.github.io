@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kamkar</h1>
 <h3 align="center">An enthusiastic cybersecurity professional hailing from India.</h3>
+<img align="right" alt="dog_image" width="400" src="https://github.com/Pkhuyar/pkhuyar.github.io/blob/main/img.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkhuyar&label=Profile%20views&color=0e75b6&style=flat" alt="pkhuyar" /> </p>
 
